@@ -1,17 +1,17 @@
-# О себе
+# About me
+Olesia Safronova, 06.11.1976 г.
+## Education: 
+incomplete higher education degree(F)YSU majoring in Pedagogy and Methods of Primary Education;
+courses in netology testing engineer
 
-Сафронова Олеся Николаевна, дата рождения 06.11.1976 г.
-## Образование: 
-незаконченное высшее ТИ(ф)ЯГУ по специальности Педагогика и методика начального образования;
-курсы QA testing в Нетологии
-
-## Навыки:
-- начальные навыки тестирования API в Postman,
-- нагрузочное тестирование в JMetr,
-- начальные навыки работы в Postman,
-- начальные навыки работы с линейкой программ от Atlassian (Jira, Confluence,Figma),
-- начальные знания языков HTML,CSS,JavaScript,Java,
-- начальные навыки работы с SQL
-- JUnit tests.
+## Skills:
+- Java application testing,
+- testing Maven, Gradlew,
+- testing Selenium/Selenide,
+- getting to know how to work with MySQL and PostgreSQL databases,
+- the ability to create a test plan, a test caseб
+- Allure reporting skills,
+- JUnit tests,
+- Python, JavaScript, HTTP, and work through DevTools.
 
 ![14  Листва](https://github.com/LessiaSa/Portfolio/assets/160625034/f61f692c-7cc9-41a8-b8af-a92b96f3d85d)
