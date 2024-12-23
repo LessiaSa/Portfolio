@@ -9,7 +9,7 @@ courses in netology testing engineer
 - testing Maven, Gradlew,
 - testing Selenium/Selenide,
 - getting to know how to work with MySQL and PostgreSQL databases,
-- the ability to create a test plan, a test caseб
+- the ability to create a test plan, a test case,
 - Allure reporting skills,
 - JUnit tests,
 - Python, JavaScript, HTTP, and work through DevTools.
